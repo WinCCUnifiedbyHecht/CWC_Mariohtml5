@@ -1,0 +1,32 @@
+{
+  "mver": "1.2.0",
+  "control": {
+    "identity": {
+      "name": "Hecht Mario",
+      "version": "1.0",
+      "displayname": "Hecht Mario",
+      "icon": "./assets/logo.png",
+      "type": "guid://8F2D1D74-4B07-4F7A-8800-1A75071F21B4",
+      "start": "./control/index.html"
+    },    
+    "metadata": {
+      "author": "DerHecht",
+      "keywords": [
+      ]
+    },
+    "contracts": {
+      "api": {
+        "methods": {
+        },
+
+        "events": {
+        },
+
+        "properties": {
+        }
+      }
+    },
+    "types": {
+    }
+  }
+}
